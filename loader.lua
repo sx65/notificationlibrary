@@ -36,7 +36,7 @@ local function Shadow2px()
 	NewImage.SliceCenter = Rect.new(17, 17, 283, 283);
 	NewImage.Size = UDim2.fromScale(1, 1) + UDim2.fromOffset(30, 30);
 	NewImage.Position = -UDim2.fromOffset(15, 15);
-	NewImage.ImageColor3 = Color3.fromRGB(160, 100, 11);
+	NewImage.ImageColor3 = Color3.fromRGB(190, 108, 0);
 	return NewImage;
 end
 
